@@ -32,7 +32,7 @@
       <connection class='federated'>
         <named-connections>
           <named-connection caption='NCHS_-_Teen_Birth_Rates_for_Age_Group_15-19_in_the_United_States_by_County (2)' name='excel-direct.1mjhjbk1t8j31518zef431hgbg5u'>
-            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='C:/Users/akash/Downloads/NCHS_-_Teen_Birth_Rates_for_Age_Group_15-19_in_the_United_States_by_County (2).xlsx' interpretationMode='0' password='' server='' validate='no' />
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='NCH_TBR_AGE 15-19_in_the_US_by_County.xlsx' interpretationMode='0' password='' server='' validate='no' />
           </named-connection>
         </named-connections>
         <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='excel-direct.1mjhjbk1t8j31518zef431hgbg5u' name='NCHS_-_Teen_Birth_Rates_for_Age' table='[&apos;NCHS_-_Teen_Birth_Rates_for_Age$&apos;]' type='table'>
